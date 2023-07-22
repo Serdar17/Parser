@@ -4,3 +4,6 @@ pydantic==2.0.3
 requests==2.28.2
 selenium==4.10.0
 SQLAlchemy==2.0.19
+rocketry~=2.5.1
+uvicorn~=0.23.0
+matplotlib~=3.7.2
