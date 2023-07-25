@@ -1,7 +1,7 @@
 
 # Parser
 
-## Api documentation for `https://parserapp.serdar17.repl.co/docs#/`
+## Api documentation for `https://fastapideta-1-f6268720.deta.app/docs`
 
 ##### Content
 
