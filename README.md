@@ -308,4 +308,5 @@ None
   ```
 * **RETURNS**
 
-![statistics](https://github.com/Serdar17/Parser/assets/96997312/a46d75d6-f33e-41e4-bde3-d0195c129004)
+![statistics](https://github.com/Serdar17/Parser/assets/96997312/fb51bd46-82a5-4884-bffe-6f4f5264fb1a)
+
